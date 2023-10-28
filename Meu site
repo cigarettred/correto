@@ -1,1 +1,60 @@
-a
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KITTY LIVROS</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+
+   <header class="header">
+   <a href="/" class="logo"> Kitty Livros </a>
+   <nav class="nav">
+    <input type="checkbox" id="checkbox" class="checkbox" />
+    <label for="checkbox" class="label-menu"> Menu <span class="hamburger"> </span></label>
+    <ul class="menu"> 
+ <li> <a href="romance.html">Romance </a></li>
+ <li><a href="Terror.html"> Terror </a></li>
+ <li><a href="Serial.killer.html"> Criminal </a></li>
+ <li><a href="Poemas.html"> Poemas </a></li>
+ <li><a href="Fantasia.html"> Fantasia </a></li>
+
+</ul>
+</nav>
+</body>
+</html>
+</header> 
+
+<header class="header2"> <body class="eu"> <html> <head> 
+
+     <p class="paragrafo"> <h2> Falando sobre livros, e adaptações dos livros. NÃO irá conter spoilers, 
+        apenas vamos falar o <br> básico, a sinopse do livro. Vamos falar das
+         adaptação de livros, <br> se vale a pena ver, e onde você pode ver essas adaptações.
+        </p> </h2>
+
+        <hr color=" rgb(120, 51, 211);" size="3"> 
+
+<h2 class="h22"> Aqui está alguns sites que você pode usar para comprar livros. 
+
+
+<h2 class="box2"> <p> Dica: Você pode comprar livros em sebos da sua cidade,
+     geralmente os livros <br> são mais baratos, e tem vários livros 
+     em ótimo estado. <br> </p></h2> 
+</head>
+
+<h2><ul class="books"> 
+    <li> <a href="https://www.amazon.com.br"> Amazon </a></li>
+    <li><a href="https://www.livrariascuritiba.com.br"> Livrarias Curitiba </a></li>
+    <li><a href="https://www.americanas.com.br"> Americanas </a></li>
+    <li><a href="https://www.magazineluiza.com.br"> Magalu </a></li>
+    <li><a href="https://www.estantevirtual.com.br"> Estante virtual </a></li>
+   
+   </ul> </h2>
+
+<img class="book"  src="book.jpg"> 
+<h2 class="p2"> <p> Dica2: Você pode ouvir audiobook do livro, e ler em pdf. </p></h2> 
+
+</html>
+</body>
+</header>
